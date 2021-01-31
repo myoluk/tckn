@@ -1,6 +1,7 @@
 T.C. kimlik numarası doğrulama ve ilişkili (akraba) kimlik numaralarını bulma algoritması.
 > :beginner: 1.sınıf C arşivinden
 
+*(Olduğu gibi arşivden alınmıştır.)*
 
 # Algoritma
 Program, girilen TC No'nun doğruluğunu kontrol eder.
@@ -25,6 +26,7 @@ Girilen TC No'nun, TC No oluşturma algoritmasıyla sistemde kayıtlı veya hen�
 
 
 # Kullanım (gcc)
-> gcc .\TCKN.c -o TCKN.exe
-
-> .\TCKN.exe
+```sh
+gcc .\TCKN.c -o TCKN.exe
+.\TCKN.exe
+```
