@@ -1,5 +1,10 @@
 ## TCKN (T.C. Kimlik Numarası)
 
+![stars](https://img.shields.io/github/stars/myoluk/tckn)
+![forks](https://img.shields.io/github/forks/myoluk/tckn)
+![licence](https://img.shields.io/github/license/myoluk/tckn)
+![last-commit](https://img.shields.io/github/last-commit/myoluk/tckn)
+
 T.C. kimlik numarası doğrulama ve ilişkili (akraba) kimlik numaralarını bulma algoritması.
 
 :beginner: Üniversite 1. dönem C programlama arşivinden (_Olduğu gibi arşivden alınmıştır_)
