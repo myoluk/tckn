@@ -19,7 +19,7 @@ Girilen TCKN'nin, TCKN oluşturma algoritmasıyla sistemde kayıtlı veya henüz
   - Çıkan sonucun mod 10'u, 10. basamağı verir.
   - 10 hanesi oluşan TCKN'nin 1'den 10'a tüm hanelerinin toplamının mod 10'u, 11. basamağı verir.
   - **Örneğin;**	_TCKN, `123456789` ile başlasın. Bu TCKN'nin 10. ve 11. basamaklarının hesaplanması için:_
-    - `10.hane` -> ((1\*3\*5\*7\*9)\*7 - (2\*4\*6\*8)) %10
+    - `10.hane` -> ((1\+3\+5\+7\+9)\*7 - (2\+4\+6\+8)) %10
     - `11.hane` -> (1+2+3+4+5+6+7+8+9+10) %10
 
 - **TCKN Oluşturma:**
